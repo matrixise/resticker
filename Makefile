@@ -1,4 +1,4 @@
-IMAGE=mazzolino/restic
+IMAGE=matrixise/resticker
 ARCH=amd64
 
 default: image push manifest
